@@ -1,1 +1,2 @@
-# khushi
+# my first repository
+author- khushi alaria
